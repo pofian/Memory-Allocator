@@ -1,6 +1,3 @@
-**Popa Filip-Andrei**  
-**313CAb 2024**
-
 ## Segregated Free Lists
 
 ### Please read *project_description.pdf* for detailed explications, as well as an overview of the commands.
